@@ -1,2 +1,13 @@
 Fabhack Eagle Library
 =====================
+
+* LM4F120H5QR
+
+* Raspberry Pi
+  - imported from Jacques Lagnel - https://github.com/spacerace/Eagle-Libraries
+
+* Stellaris Launchpad
+  - imported from Fred - http://forum.stellarisiti.com/topic/322-eagle-library-for-stellaris-launchpad/
+
+* TPD4S012, TPD4S014
+  - converted from TI website using Ultra Librarian
