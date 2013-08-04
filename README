@@ -11,3 +11,6 @@ Fabhack Eagle Library
 
 * TPD4S012, TPD4S014
   - converted from TI website using Ultra Librarian
+
+* ADS1298
+  - redesigned ADS1278
